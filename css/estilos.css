@@ -24,12 +24,16 @@ body {
 
 	margin: 0 auto;
 
-	width: 100%;
+	width: 1300px;
 
 	font: 13px/22px Helvetica, Arial, sans-serif;
 
 	background: #f0f0f0;
 
+}
+
+h1{
+	padding: 20px;
 }
 
 h2 {
@@ -73,6 +77,8 @@ nav {
 nav ul {
 
 	margin: 0 auto;
+
+	margin-left: 150px;
 
 	width: 85%px;
 
@@ -133,6 +139,7 @@ nav ul li {
 		#intro {
 
 			margin-top: 86px;
+			margin-left: 150px;
 		
 			padding: 44px;
 			position: relative;
@@ -185,7 +192,7 @@ nav ul li {
 		#content {
 
 			display: table;
-			width: 70%;
+			width: 85%;
 			margin-left: 12%;
 		
 		}
@@ -318,9 +325,11 @@ footer div #about, footer div #blogroll {
 }
 
 aside section ul {
-	margin: 0 0 0 22px;
+	
 	list-style: none;
 }
+
+
 
 footer ul {
 	margin: 0 0 0 40px;
